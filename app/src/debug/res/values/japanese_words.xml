@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="umbrella_jp">かさ</string>
+    <string name="bag_jp">かばん</string>
+    <string name="homework_jp">しゅくだい</string>
+    <string name="wallet_jp">さいふ</string>
+    <string name="car_jp">くるま</string>
+    <string name="train_jp">でんしゃ</string>
+    <string name="telephone_jp">でんわ</string>
+    <string name="cell_phone_jp">けいたい</string>
+    <string name="tennis_jp">テニス</string>
+
+    <!-- Category: Family -->
+    <string name="mother_jp">おかあさん</string>
+    <string name="father_jp">おとうさん</string>
+    <string name="older_sister_jp">おねえさん</string>
+    <string name="older_brother_jp">おにいさん</string>
+    <string name="younger_sister_jp">いもうと</string>
+    <string name="younger_brother_jp">おとうと</string>
+
+</resources>

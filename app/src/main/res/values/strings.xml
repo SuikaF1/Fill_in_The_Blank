@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fill in The Blank</string>
+
+    <!-- app UI strings -->
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+
+    <!-- English translations of the words-->
+    <string name="umbrella">Umbrella</string>
+    <string name="bag">Bag</string>
+    <string name="homework">Homework</string>
+    <string name="wallet">Wallet</string>
+    <string name="car">Car</string>
+    <string name="train">Train</string>
+    <string name="telephone">Telephone</string>
+    <string name="cell_phone">Cell Phone</string>
+    <string name="tennis">Tennis</string>
+    <string name="mother">Mother</string>
+    <string name="father">Father</string>
+    <string name="older_sister">Older Sister</string>
+    <string name="older_brother">Older Brother</string>
+    <string name="younger_sister">Younger Sister</string>
+    <string name="younger_brother">Younger brother</string>
+</resources>
